@@ -1,0 +1,289 @@
+[ARTICLE 1: The Open Network Unveils $124M Incentives Program Amid Soaring Growth - "The Defiant"]
+
+The TON Foundation, the organization building The Open Network (TON), the blockchain previously know
+n as Telegram Open Network, is launching a program distributing nine figures worth of incentives to 
+developers and users.  Announced on March 20, the foundation will distribute  of its native Toncoin 
+tokens to active users through its newly announced Open League campaign. With Toncoin currently trad
+ing for $4.13, the rewards on offer are worth roughly $124 million.  The Open League will take place
+ over four month-long seasons starting April 1. The first season will offer roughly $15 million wort
+h of tokens to developers that meet key performance indicators and top a competitive . Approximately
+ $22 million will also be up for grabs for dApp users in the form of quests, airdrops, and incentive
+s for liquidity providers.  “The Open League and its massive rewards are designed to create a positi
+ve ‘flywheel’ for TON projects,” the foundation . “The hypothesis is simple – once the world sees ho
+w every project in The Open League can make millions of Telegram users go on-chain; TON becomes the 
+obvious choice for every mass audience consumer product on the planet.”  The foundation already comp
+leted a two-week Open League pilot that distributed 650,000 Toncoin (nearly $2.7 million). The found
+ation attributes the pilot to a 70% increase in the total value locked (TVL) on TON and a 370% incre
+ase in daily active wallets since the pilot kicked off.  TON adoption surges -------------------  Th
+e Open Network’s TVL has soared 133% over the past four weeks, jumping to $218.7 million from $93.7 
+million.  However, Toncoin liquid staking protocols dominate the network’s TVL rankings, with Tonsta
+kers boasting a 53% dominance with $116.4 million, followed by Bemo with $30.3 million.  TON-native 
+decentralized exchanges Ston.fi and DeDust come in third and fourth with $29.9 million and $25.27, w
+hile Stakee, another liquid staking protocol, ranks fifth with $11.2 million. TON's top five DeFi pr
+otocols account for 97.4% of the network's TVL combined.  The price of Toncoin is also up 53% in the
+ past two weeks and nearly 100% since Feb. 26, falling just 10% shy of its November 2021 all-time hi
+gh of $4.50, according to CoinGecko.  TON/USD. Source: CoinGecko.  On Feb. 28, Telegram, the popular
+ encrypted messaging app, also  it would begin sharing 50% of advertising revenue with channel owner
+s via Toncoin in March.  Telegram originally began developing TON in 2018, but the company later aba
+ndoned the project following a protracted battle with the U.S. Securities and Exchange Commission in
+ 2020. While the TON Foundation took over development, TON became the official web3 infrastructure p
+latform for Telegram in September 2023 following an agreement between the two entities.  Memecoin la
+unchpad Pump.Fun is surpassing its all-time highs yet again, in what has been a common occurrence in
+ 2024.  Daily active addresses reached 78,000 on Oct. 17, a 20% increase from its previous local hig
+h of 65,000 on July 31. The number of tokens launched in a single day also broke to new highs on Oct
+ 14 with 25,000 unique memecoins created, a 22% increase from its previous high of 20,400 on August 
+13.  As a result, Pump.Fun is back in the top 5 revenue generators with $7.3 million in revenue over
+ the last seven days, according to . Pump.Fun is currently generating more revenue than its parent n
+etwork, Solana, which earned $6.2 million in the same period.  The current spike in activity is a co
+mbination of the market’s increasing risk appetite as Bitcoin approaches $69,000, as well as a flurr
+y of attention surrounding the memecoin.  $GOAT, now above a $400 million market capitalization, has
+ spawned an entire “AI meta” within the memecoin space, leading to mass deployments and trades on Pu
+mp.Fun. The parabolic price action makes $GOAT the highest-valued token to be birthed on the launchp
+ad, surpassing $MICHI, which previously reached $208 million.  Pump.Fun took to social media to cele
+brate the victory and , “It seems like each week is getting crazier and crazier, with AIs, robots an
+d other kinds of "innovative tech" taking over. Most importantly, a new king has been crowned:.”  Ta
+piocaDAO, an omnichain money market built on LayerZero, suffered a security breach of its token depl
+oyer address early Friday morning. Cybersecurity firm Cyvers alerted that an attacker had drained an
+d swapped nearly $1.6 million worth of TAP tokens, prompting the token to collapse 95%.  The news is
+ devastating for a project that had reportedly $2.1 million on audits and recently launched its test
+net.  According to Cyvers, an exploiter used the Emergency Rescue function on a Tapioca vesting cont
+ract and funneled nearly 28 million TAP tokens to an address under their control. These tokens were 
+then dumped for 591 ETH in a single transaction and bridged to the BNB Chain from Arbitrum.  “The fu
+nction was accessible to anyone, revealing a major security oversight by Tapioca,” said Cyvers. Zack
+XBT added that the project to a contagious interview scam that has hit several protocols of late.  T
+AP is on life support after dropping more than 95% to $0.07.  TAP Price  Hakan Unal, Senior SOC Lead
+ at Cyvers, told The Defiant that this type of breach is common. He explained that the deployer cont
+rolling the TapiocaDAO contract likely downloaded malware, which gave the attacker access to the key
+s and the smart contract.
+
+[ARTICLE 2: TON raises 8-figure sum from MEXC to make Telegram a Web3 super-app]
+
+The Open Network (TON) — a decentralized blockchain platform initially designed by Telegram — has se
+cured major funding from the venture arm of the cryptocurrency exchange MEXC.  TON has raised an eig
+ht-figure investment from MEXC Ventures — a subsidiary of MEXC’s global cryptocurrency exchange MEXC
+ — the firm announced on Oct. 4. In conjunction with the funding, MEXC and the TON Foundation have e
+ntered into a strategic partnership aiming to promote global Web3 accessibility by lowering the barr
+iers of entry.  As part of the deal, the MEXC crypto exchange will provide marketing services and pr
+omotion for TON-based projects listed on its platform. The firm is also set to launch a TON collater
+al lending service and eliminate trading fees for the TON token. “The previous cost was the same for
+ most cryptocurrencies on the exchange,” TON Foundation’s director of growth Justin Hyun told Cointe
+legraph.  Additionally, MEXC Ventures will continue funding TON-based mini apps in addition to its o
+ngoing support of TON-based projects like the autonomous protocol Megaton Finance, GameFi platform T
+ONPlay, Fanzee and Sonet.  With the support of MEXC Ventures, TON Foundation aims to increase the ad
+option of the Web3 ecosystem within the Telegram messenger, Hyun said, adding:  > “The technology sh
+ould be convenient and easy to use for anyone, no matter their knowledge of the world of blockchain.
+ With TON on Telegram, crypto becomes as easy as texting.“  Telegram founder Pavel Durov has repeate
+dly pointed out the role of the TON blockchain in Telegram’s potential Web3 journey. In mid-Septembe
+r, , allowing users to access coins like Toncoin (TON), Bitcoin and Tether directly from the app’s i
+nterface. Durov that the TON tech has been developed by the open-source community rather than Telegr
+am, stressing that TON Wallet is a third-party app.  Telegram was forced to in 2020 following a lega
+l battle with securities regulators in the United States.  TON’s investor, MEXC Ventures, is a subsi
+diary of the centralized cryptocurrency exchange MEXC and was founded in 2018 and registered in the 
+Seychelles, according to data from major crypto aggregators like and .  **_Related:_**  MEXC is know
+n for its flexible Know Your Customer (KYC) policies, allowing users to trade and deposit cryptocurr
+encies like Bitcoin without completing any KYC. According to the MEXC customer care specialist on Te
+legram, MEXC users are able to “no more than 30 BTC every 24h without KYC.”  Some people in the cryp
+to community have warned users about the , such as being unable to prove your identity if the exchan
+ge is hacked. Trading nearly $600 million daily, MEXC claims to hold licenses in Australia, Estonia 
+and the United States, and it claims to serve users in 200 countries.  **_Magazine:_**  _This articl
+e has been updated to reflect that TON Wallet investment hasn’t been discussed by MEXC and the TON F
+oundation, and MEXC doesn’t have investment exposure to the wallet._  Explore more articles like thi
+s  Subscribe to the Finance Redefined newsletter  A weekly toolkit that breaks down the latest DeFi 
+developments, offers sharp analysis, and uncovers new financial opportunities to help you make smart
+ decisions with confidence. Delivered every Friday  Subscribe  By subscribing, you agree to our
+
+[ARTICLE 3: Telegram-Linked TON Blockchain Down as Binance, Bybit Suspend Trading - Decrypt]
+
+The Open Network (TON), initially developed by brothers Pavel and Nikolai Durov, went dark late Tues
+day evening, with eagle-eyed users reporting the protocol had stopped processing transactions.  The 
+network, formerly associated with the messaging platform Telegram, has not produced any new blocks f
+or the last four hours, according to blockchain explorer .  Posting from its X account, TON confirme
+d "a disruption in block production to its network," adding the issue is occurring "due to the abnor
+mal load."  "Several validators are unable to clean the database of old transactions, which has led 
+to losing the consensus," it said.  Validators are rushing to restart their nodes and software follo
+wing a call from the chain's development team, TON Core, to reestablish network consensus.  Binance 
+and have suspended deposits and withdrawals to and from the network, _Decrypt_ confirmed.  A represe
+ntative for the network did not immediately return a request for comment.  Tonscan had on X earlier 
+on Tuesday that the launch of the meme coin was "causing quite a lot of traffic" on the network "wit
+h a few central services taking a little break."  Durov, alongside his brother Nikolai, unveiled the
+ layer-1 blockchain in 2018 via a Telegram Whitepaper. That was followed up by the project's initial
+ coin offering—the second largest in history—of its Gram token.  The Securities and Exchange Commiss
+ion later halted the project, viewing its Gram token offering as unregistered securities.  After Tel
+egram withdrew in 2020, community developers continued the project, launching the current network le
+d by Anatoliy Makosov and Kirill Emelianenko.  Durov was in Paris on Saturday, facing charges of fac
+ilitating illegal transactions, refusing to cooperate with law enforcement, and allowing child porno
+graphy, drug distribution, organized fraud, money laundering, and illegal cryptographic activities t
+o go unchecked on Telegram.  Despite distancing itself from the project in recent years, Telegram ha
+s begun rembracing it, including paying channel owners a cut of ad revenue via Toncoin (TON)—the net
+work's native token.  In August, Telegram introduced a feature enabling content creators to earn cry
+pto via the in-app currency "Stars," which can be converted to TON or used for advertising payments.
+  The price of TON remained slightly unchanged on Tuesday, though it has been more than 20% since Du
+rov was arrested.  Telegram's user base exceeded 950 million in July, according to Durov, fueled by 
+a rise in users drawn to crypto-based games offered through integrated "mini-apps" on the platform. 
+ The most popular, Hamster Kombat, has reportedly garnered over 300 million players in recent months
+, ahead of its upcoming token launch and airdrop.  _Editor's note: This story has been updated to in
+clude TON's statement._
+
+[ARTICLE 4: Telegram Gets a Crypto Wallet—3 Years After SEC Pumped the Brakes - Decrypt]
+
+The Open Network Foundation (TON Foundation) announced Wednesday that messaging app Telegram will ad
+d a self-custodial crypto wallet for the chat platform’s users, taking The Open Network (TON) closer
+ to its spiritual roots.  The TON Foundation said that a self-custodial digital wallet, TON Space, h
+as launched on Telegram and is now available to the chat platform’s approximately 800 million users.
+ In addition, the Foundation said that projects built on TON will get priority access to the messagi
+ng app’s advertising platform, Telegram Ads.  The wallet feature is currently accessible in Telegram
+’s settings, a TON spokesperson said, and a global rollout will begin in November, “excluding the U.
+S. and some other countries.”  TON, a proof-of-stake blockchain platform, was by Telegram in 2020. I
+t was slated to go live after two-and-a-half years of work on the platform, but Telegram’s involveme
+nt was cut short by a lawsuit from the United States Securities and Exchange Commission (SEC).  The 
+SEC sued Telegram in 2019 over $1.7 billion raised via the project’s initial coin offering (ICO) thr
+ough a token called Grams. An alleged offering of unregistered securities, Telegram settled with the
+ SEC, paying back investors any unspent funds along with a $18.5 million fine.  A refund was already
+ in the works: Telegram had promised to return funds to users if the platform didn’t go live by a in
+ the spring of 2020.  Similar to Tesla owner Elon Musk’s ambitions for Twitter (or X) as both a paym
+ents and media app, Telegram co-founder Pavel Durov envisioned TON as a way to send crypto within ch
+ats and monetize the messaging app.  In a 2020 , which officially said that “Telegram’s active invol
+vement with TON is over,” Durov warned of other crypto projects co-opting TON’s name and tech. He sa
+id then that the firm was “unlikely to ever support them in any way,” making Wednesday’s move an app
+arent about-face.  Community organizations emerged to keep the dream behind TON alive in Telegram’s 
+wake, including organizations like FreeTon, NewTON, and the .  Telegram's Chief Investment Officer J
+ohn Hyman said giving users ownership of their identities and assets aligns with the company’s belie
+fs toward free speech.  "With this announcement, we are putting digital ownership rights in the hand
+s of our entire user base," he said in a release, "while also giving TON projects the tools to reach
+ our audience in the largest Web3/Web2 integration there has ever been."  TON Foundation announced l
+ast week that it’s in Switzerland, where the organization is now registered as a nonprofit. Steve Yu
+n, president of TON Foundation, spoke to the synergistic elements of TON and Telegram’s collaboratio
+n in a written statement.   “TON ecosystem strives to provide a simple and intuitive user experience
+ akin to that of the popular social applications, like Telegram,” he said. “Sharing the same DNA, we
+ invite all builders to join our journey to mass adoption.”  Around the time Telegram withdrew from 
+TON’s development, the app had close to . Since then, according to statistics provided by TON Founda
+tion, Telegram has doubled that tally and it’s currently one of the top 10 most downloaded apps in t
+he world.  _Editor's note: This story was updated after publication to clarify the nature of the ann
+ouncement and the creator of the wallet._
+
+[ARTICLE 5: Telegram to Share Ad Revenue Via Ton Blockchain; TON Rockets 40%Share on FacebookShare on LinkedInShare on XX iconFacebook iconLinkedin iconRSS Logo]
+
+Privacy-focused messaging giant Telegram will start sharing advertisement revenue with channel owner
+s starting in March, founder Pavel Durov said in a broadcast message on his official channel, viewed
+ by CoinDesk, on Wednesday.  All payments and withdrawals will be settled on The Open Network (TON) 
+blockchain, a network previously created by the same company that built Telegram but maintained full
+y by independent developers since 2020. Telegram previously having 800 million monthly users in July
+ 2023.  TON Network's native TON token rocketed nearly 40% to over $2.92 after the announcement came
+ out. Meanwhile, the broader CoinDesk 20 index () jumped 2.5%.  A message sent to Telegram’s officia
+l media requests channel did not immediately confirm Durov’s post. Telegram had previously said it h
+ad plans to share revenue with certain channel owners, . Channels are one-way feeds where the channe
+l creator can post content that an unlimited number of users can subscribe to.  “Broadcast channels 
+on Telegram generate 1 trillion views monthly. Currently, only 10% of these views are monetized with
+ Telegram Ads — a promotion tool designed with privacy in mind,” Durov .  “In March, the Telegram Ad
+ Platform will officially open to all advertisers in nearly a hundred new countries. Channel owners 
+in these countries will start receiving 50% of any revenue that Telegram makes from displaying ads i
+n their channels.”  Telegram did not respond to CoinDesk's request for comment on its official media
+ channel. Telegram had previously said it had plans to share revenue with certain channel owners, . 
+ _**UPDATE (Feb. 28, 13:15 UTC):**_ _Adds additional details, updated headline and story._
+
+[ARTICLE 6: Animoca Brands Invests in TON Network, Becomes Largest ValidatorShare on FacebookShare on LinkedInShare on XX iconFacebook iconLinkedin iconRSS Logo]
+
+Gaming and metaverse-focused venture capital firm Animoca Brands has made an investment in the TON e
+cosystem and become the largest validator on the TON blockchain.  Hong Kong-based Animoca Brands is 
+assisting third-party gaming projects to build in the ecosystem by supporting TON Play, the network'
+s gaming infrastructure project, .  Animoca declined to provide details on the terms of its investme
+nt when contacted by CoinDesk.  TON received in September, giving potential TON-based projects a pro
+spective target audience of the messaging app's 800 million users.  _**Read More:**_
+
+[ARTICLE 7: The Open Network: Backed by Telegram, Exploring the Path of Interconnectivity Between Web2 and Web3 | by LD Capital | Medium]
+
+August 14th marks the 10th anniversary of Telegram, with founder and CEO Pavel Durov outlining in hi
+s 10th-anniversary message that Telegram’s next step is to go beyond mere information transmission a
+nd lead the innovation in social media. Due to its information encryption and privacy features, Tele
+gram has become one of the most popular communication applications.  This year’s Telegram Bot craze 
+has also caught the market’s attention. However, Telegram bots merely use the Telegram application a
+s an interface for the Ethereum protocol and do not directly interact with the TON (Telegram Open Ne
+twork) blockchain. TON emerged from the Telegram Open Network blockchain platform initiated by Teleg
+ram in 2017 but had to halt its operations due to SEC charges. Subsequently, the Telegram community,
+ through spontaneous organization, renamed the network as the Open Network (TON) and continued its n
+etwork development and ecosystem expansion. Currently, TON’s governance token TON has a market value
+ surpassing Polkadot and Polygon, ranking 12th overall and 6th among public blockchains. Despite Tel
+egram no longer being involved in TON network development, TON could still gain significant traffic 
+through its association with Telegram. Telegram bots have also brought about a paradigm shift in use
+r experience from Web 2 applications to Web 3, offering low-cost, low-threshold entry into Web 3.  *
+*I. Network Framework**  **I. Network Framework**  TON’s structure is a multi-layer, multi-chain sys
+tem consisting of the master chain, workchains, and shard chains. The master chain serves as a centr
+al manager, while workchains support smart contracts and decentralized applications (DApps). Differe
+nt workchains need only adhere to unified interoperability standards, similar to Polkadot. Each work
+chain implements shard chains to enhance scalability and parallel transaction processing, with each 
+shard responsible for a specific subset of accounts.  TON currently adopts a PoS (Proof of Stake) co
+nsensus mechanism. Three roles exist within the network:  1) Validator Nodes: Maintain network secur
+ity by staking TON tokens.  2) Fishermen: Detect whether validator nodes fulfill their validation ta
+sks by sending invalid proof. Validator nodes face penalties if they fail this proof.  3) Collators:
+ Check the state of the shard and adjacent shard and send it to validator nodes. Collators are typic
+ally rewarded by validator nodes.  **II. Roadmap**  **II. Roadmap**  1\. Strengthen detection and pe
+nalties for non-compliant validator nodes.  2\. Create cross-chain bridges with the Ethereum and Bin
+ance Smart Chain networks.  3\. Allow stakers to participate in on-chain governance.  4\. Introduce 
+payment channels supporting instant micropayments between any two participants, free except for netw
+ork fees incurred during channel creation and closure.  **III. Token Situation**  **III. Token Situa
+tion**  After the launch of the Telegram Open Network testnet 2, 5 billion tokens were minted, with 
+1.45% allocated to developers and testers. However, the SEC quickly banned Telegram from issuing tok
+ens to investors, leading Telegram to cease its work within the TON ecosystem. Testnet 2 tokens were
+ placed within smart contracts. All available Toncoin (TON) tokens are released through mining. Thes
+e tokens are held in a special Giver smart contract, allowing anyone to participate in mining until 
+the mining deadline on June 28, 2022.  After the initial distribution, TON entered the PoS phase. Ac
+cording to the whitepaper, rewards for the PoS network amount to around 20% of staked tokens, with a
+n annual inflation rate of approximately 2%, doubling the token supply in an estimated 35 years. Cur
+rently, the total token supply is 5.093 billion, with a circulating supply of 3.441 billion.  **Use 
+Cases**  **Use Cases**  1\. Payments: Domain Name System (DNS), data storage, TON proxies, on-chain 
+gas, cross-chain fees, etc.  2\. Staking: Maintaining network security, with a portion of tokens con
+fiscated from penalized validator nodes likely to be burned (specific ratio unspecified).  3\. Gover
+nance  **IV. Network Data**  **IV. Network Data**  The TON network currently has 343 validator nodes
+ in the verification phase, with a total staked TON token count of 486 million, accounting for 9.5% 
+of the total token supply and 14.12% of the circulating token supply. Tokens destroyed amount to 41,
+600. Starting from January 2022, network account numbers and active addresses have steadily increase
+d, with a total account count of 3.351 million, approximately 765,000 active addresses, a daily aver
+age of 160,000 transactions, and a daily increase in on-chain addresses ranging from 700 to 900.  De
+spite the total number of account addresses exceeding 3 million, the Jetto wallet has only 133,000 u
+sers deeply involved in the Ton ecosystem. (Note: Jetto represents the Ton network token standard, a
+nd the Jetto wallet includes any Jetto tokens. The number of forged NFTs stands at 1.194 million. Th
+e number of sold DNS is 32,000 (the number of forged ENS domain names on Ethereum is 2.574 million).
+ Sales revenue amounts to 6.205 million TON, estimated at 10.67 million USD at the current price, wi
+th an average price of 333 USD per DNS, which is relatively high.  **V. Ecology**  **V. Ecology**  T
+he current Ton network ecosystem is led by the Ton Foundation, which is 100% community-driven. Since
+ the beginning of 2023, the Ton Foundation’s main activities include:  1) Regular liquidity funding 
+rewards.  2) A comprehensive accelerator program, launched in May 2023, with a funding allocation of
+ 25 million USD. The Ton Foundation has announced the projects funded in the second and third quarte
+rs of 2022 and 2023. According to the reports, a total of 31 projects were funded in 2022, 10 projec
+ts were funded in the second quarter of 2023, and 5 projects were funded in the third quarter, with 
+a focus on infrastructure.  3) Development plans for Telegram. In August, the Ton Foundation launche
+d the tApps center, a platform that includes any app that supports the Telegram ecosystem. In Septem
+ber, they introduced the web3 Grant program for Telegram, without specifying the exact amount, but e
+ach project’s funding is expected to be between 20,000 and 50,000 USD.  According to Defillama, Ton’
+s current Total Value Locked (TVL) is 9.85 million USD, with the historical high point being only 21
+.04 million USD. Ton’s ecosystem is in a very early stage of development.  【DEX】  Megaton Finance  A
+n AMM DEX developed by the South Korean blockchain technology company OZYS, originally built on the 
+Klaytn platform as Klayswap. The current TVL has reached 4.89 million USD, accounting for approximat
+ely 50% of the Ton TVL, making it a dominant player in the Ton DeFi space. In March of this year, Me
+gaton Finance secured 1.5 million USD in seed funding, led by the Toncoin fund, with participation f
+rom Cypher Capital, First Stage Labs, Orbs, MEXC Ventures, and other institutions. The project token
+ $MEGA is listed on MEXC, with 54% of tokens allocated to liquidity providers.  DeDust  Developed by
+ Scaleton, it now supports almost all available wallets in the Ton blockchain. They recently release
+d DeDust 2.0. The DeDust DEX currently supports token bridging, allowing users to seamlessly transfe
+r tokens between the Ton blockchain and Ethereum. The current TVL is 2.56 million USD.  STON.fi  An 
+AMM DEX with a trading fee of 0.3%, where 0.2% goes to liquidity providers and 0.1% to the STON.fi p
+rotocol. The current TVL is 2.23 million USD.  【Lending】  _DAOLama_  As a lending platform using NFT
+s as collateral, the current Total Value Locked (TVL) is only $160,000.  【NFT Marketplace】  TON Diam
+onds  TON Diamonds serves as the primary NFT trading marketplace on the TON blockchain. Regular user
+s are subject to a 5% market fee when trading NFTs on TON Diamonds. However, users can reduce transa
+ction fees by purchasing official diamond NFTs of different levels.  【Other】  Fanzee  Fanzee, a plat
+form for fan engagement, has raised a total of $2 million in pre-seed funding. This round was led by
+ the TON Foundation and First Stage Labs, with participation from other entities including MEXC Glob
+al, Huobi Global, KuCoin Exchange, VLG Capital, Orbs, 3Commas.io, and Hexit Capital.  **VI. Summary*
+*  **VI. Summary**  Despite the Telegram team no longer actively participating in the development of
+ The Open Network, both parties maintain a certain level of cooperation. The Open Network is activel
+y embracing the Telegram ecosystem. It is positioned to leverage high performance as its cornerstone
+, using Telegram as a significant traffic gateway to provide low-barrier use cases to gain its most 
+essential competitive edge. However, the current TON ecosystem is still in its very early stages, wi
+th infrastructure projects dominating, and a shortage of innovative and highly engaging projects.  L
+D Capital has a professional global team with deep industrial resources, and focus on develivering s
+uperior post-investment services to enhance project value growth, and specializes in long-term value
+ and ecosystem investment.  LD Capital has successively discovered and invested more than 300 compan
+ies in Infra/Protocol/Dapp/Privacy/Metaverse/Layer2/DeFi/DAO/GameFi fields since 2016.  website: ldc
+ap.com  twitter: twitter.com/ld\_capital  mail: BP@ldcap.com  medium：ld-capital.medium.com
+
